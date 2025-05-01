@@ -1,0 +1,18 @@
+# 🎮 Tic Tac Toe in C++
+
+A simple, colorful command-line Tic Tac Toe game built in C++. Great for practicing arrays, conditionals, and game logic.
+
+---
+
+## ✅ Features
+
+- 🧠 Two-player gameplay (X and O)
+- 🎨 Colored output using ANSI escape codes
+- 📦 Input validation and clean UI
+- 🏆 Automatically detects winner or tie
+
+---
+
+
+
+
